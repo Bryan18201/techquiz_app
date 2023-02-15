@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/activity_dbhelper.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/activity_email_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/game_over.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ADMIN/Desktop/xd/TechQuizApp-master/app/src/main/res/layout/start_game.xml" value="0.27291666666666664" />
+        <entry key="..\:/YouTube/Technology Awareness Quiz/Latest code/TechQuizApp/app/src/main/res/layout/activity_main.xml" value="0.30416666666666664" />
+        <entry key="..\:/YouTube/Technology Awareness Quiz/Latest code/TechQuizApp/app/src/main/res/layout/game_over.xml" value="0.30416666666666664" />
+        <entry key="..\:/YouTube/Technology Awareness Quiz/Latest code/TechQuizApp/app/src/main/res/layout/start_game.xml" value="0.30416666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

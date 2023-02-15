@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530905702235",
+    "project_id": "techquizapp-42cdf",
+    "storage_bucket": "techquizapp-42cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530905702235:android:bd297655a2961174d5047e",
+        "android_client_info": {
+          "package_name": "com.sandipbhattacharya.techquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530905702235-lptmf2gnlkc68a1pbvrsk9e33cvsss85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJo3-ylYK2OCsPsFzADiTkhD0jLc5UZdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530905702235-lptmf2gnlkc68a1pbvrsk9e33cvsss85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
