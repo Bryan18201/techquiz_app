@@ -18,5 +18,7 @@ Luis Felipe Soto Montero
 
 ![image](https://user-images.githubusercontent.com/80865397/219075384-0703d0cb-fd8d-484c-bf3a-5d65b8e8b389.png)
 
+Video del proyecto:
 
+https://www.youtube.com/watch?v=Q3EBiNz5SZI
 
