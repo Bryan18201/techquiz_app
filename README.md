@@ -1,6 +1,6 @@
 # Techquiz_app
 
-# App sencilla creada en Android Studio Java, Test de distintas tecnologías de la programación.
+App sencilla creada en Android Studio Java, Test de distintas tecnologías de la programación.
 
 # Tecnologias utilizadas: 
 
