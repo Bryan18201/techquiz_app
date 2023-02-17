@@ -1,12 +1,20 @@
 # Techquiz_app
 
-# App sencilla creada en Android Studio Java, Test de distintas tecnologias de la programación.
+# App sencilla creada en Android Studio Java, Test de distintas tecnologías de la programación.
+
+#Tecnologias utilizadas: 
+
+-Java
+
+-Android Studio
+
 Proyecto creado en grupo por:
 
 Bryan José Mañon Colón
+
 Luis Felipe Soto Montero
 
-# Imagenes 
+# Imágenes 
 
 ![image](https://user-images.githubusercontent.com/80865397/219074477-0f9d22d0-2e7f-474d-83c1-7c18b87c04d1.png)
 
